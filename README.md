@@ -20,7 +20,7 @@
 ## 📊 top languages
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=extxx&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" />
 </p>
 
 
