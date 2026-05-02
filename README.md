@@ -1,5 +1,4 @@
-**hey, i'm extx.**
-CEO & Founder @ Crave Technologies
+**hey, i'm extx, the CEO & Founder @ Crave Technologies**
 
 ---
 
