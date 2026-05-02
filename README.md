@@ -8,7 +8,6 @@ CEO & Founder @ Crave Technologies
 - **CraveBuild** - free 24/7 bot builder
 - **Crave Hosting** - bot developing & hosting
 
----
 
 ## 🛠 tech stack
 
@@ -18,7 +17,6 @@ CEO & Founder @ Crave Technologies
   <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
 </p>
 
----
 
 ## 📊 top languages
 
@@ -26,7 +24,6 @@ CEO & Founder @ Crave Technologies
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=extxx&layout=compact&theme=dark&hide_border=true" />
 </p>
 
----
 
 ## 👀 profile views
 
