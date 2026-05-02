@@ -1,5 +1,6 @@
-## hey, i'm extx.
+**hey, i'm extx.**
 CEO & Founder @ Crave Technologies
+
 ---
 
 ## 🚀 projects
@@ -22,7 +23,7 @@ CEO & Founder @ Crave Technologies
 ## 📊 top languages
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=extxx&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -30,5 +31,5 @@ CEO & Founder @ Crave Technologies
 ## 👀 profile views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7B5CF0&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=extxx&color=7B5CF0&style=flat-square&label=Profile+Views" />
 </p>
