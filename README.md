@@ -1,11 +1,6 @@
-**hey, i'm extx, the CEO & Founder @ Crave Technologies**
+**hi**
 
 ---
-
-## 🚀 projects
-- **Pixprobe** - find out where a photo was taken in under a minute
-- **CraveBuild** - free 24/7 bot builder
-- **Crave Hosting** - bot developing & hosting
 
 
 ## 🛠 tech stack
